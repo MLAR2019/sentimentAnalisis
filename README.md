@@ -1,0 +1,2 @@
+# sentimentAnalisis
+Politicians sentiment analysis
